@@ -1,0 +1,53 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "tarea": "Aprender React",
+      "descripción": "Aprender a usar react a un nivel básico",
+      "isFinished": false,
+      "typeId": 1
+    },
+    {
+      "id": 2,
+      "tarea": "Aprender Vue",
+      "descripción": "Aprender a usar vue a un nivel básico",
+      "isFinished": false,
+      "typeId": 1
+    },
+    {
+      "id": 3,
+      "tarea": "Aprender Html",
+      "isFinished": true
+    },
+    {
+      "id": 7,
+      "tarea": "Aprender Bootstrap",
+      "isFinished": true
+    },
+    {
+      "id": 8,
+      "tarea": "Aprender metodologias agiles",
+      "isFinished": true
+    },
+    {
+      "id": 9,
+      "tarea": "ingles",
+      "isFinished": false
+    },
+    {
+      "id": 11,
+      "tarea": "Aprender Python",
+      "isFinished": false
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "name": "frontend"
+    },
+    {
+      "id": 2,
+      "name": "backend"
+    }
+  ]
+}
